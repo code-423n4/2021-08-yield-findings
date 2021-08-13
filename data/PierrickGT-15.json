@@ -1,0 +1,9 @@
+{
+  "contest": "Yield micro contest #1",
+  "handle": "PierrickGT",
+  "address": "0xd70804463bb2760c3384fc87bbe779e3d91bab3a",
+  "risk": "0",
+  "title": "CompositeMultiOracle.sol - Add natspec documentation",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2021-08-yield-findings/issues/15"
+}
