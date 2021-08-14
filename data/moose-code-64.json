@@ -1,0 +1,9 @@
+{
+  "contest": "Yield micro contest #1",
+  "handle": "moose-code",
+  "address": "0x2999Fe533BC08A03304C96E8668BfA17D9D0D35b",
+  "risk": "2",
+  "title": "Rewards squatting - setting rewards in different ERC20 tokens opens various economic attacks. ",
+  "issueId": 64,
+  "issueUrl": "https://github.com/code-423n4/2021-08-yield-findings/issues/64"
+}
