@@ -1,0 +1,9 @@
+{
+  "contest": "Yield micro contest #1",
+  "handle": "hickuphh3",
+  "address": "0xD5388291EAbe96b56069440C97046791E2F72573",
+  "risk": "0",
+  "title": "Timelock.sol: Indexing targets array might not be useful",
+  "issueId": 63,
+  "issueUrl": "https://github.com/code-423n4/2021-08-yield-findings/issues/63"
+}
