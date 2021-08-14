@@ -1,0 +1,9 @@
+{
+  "contest": "Yield micro contest #1",
+  "handle": "shw",
+  "address": "0xB48B9694BeC446E3Bf54788f913174a6580a279F",
+  "risk": "2",
+  "title": "Use `safeTransfer` instead of `transfer`",
+  "issueId": 36,
+  "issueUrl": "https://github.com/code-423n4/2021-08-yield-findings/issues/36"
+}
