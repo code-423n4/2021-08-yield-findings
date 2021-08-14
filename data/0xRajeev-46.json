@@ -1,0 +1,9 @@
+{
+  "contest": "Yield micro contest #1",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Two functions with same code can be replaced by a single one",
+  "issueId": 46,
+  "issueUrl": "https://github.com/code-423n4/2021-08-yield-findings/issues/46"
+}
