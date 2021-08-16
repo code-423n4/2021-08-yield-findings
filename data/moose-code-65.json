@@ -1,0 +1,9 @@
+{
+  "contest": "Yield micro contest #1",
+  "handle": "moose-code",
+  "address": "0x2999Fe533BC08A03304C96E8668BfA17D9D0D35b",
+  "risk": "3",
+  "title": "Rewards accumaulated can stay constant and oftern not increment",
+  "issueId": 65,
+  "issueUrl": "https://github.com/code-423n4/2021-08-yield-findings/issues/65"
+}
