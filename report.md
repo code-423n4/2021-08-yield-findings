@@ -1,3 +1,11 @@
+---
+sponsor: "Yield"
+slug: "2021-08-yield"
+date: "2021-09-17"
+title: "Yield micro contest #1"
+findings: "https://github.com/code-423n4/2021-08-yield-findings/issues"
+contest: 25
+---
 
 # Overview
 
